@@ -18,8 +18,8 @@ Saat ini saya sedang belajar **Mobile Programming**.
 | No | Tanggal         | Topik                                           | Laporan            | Repository  |
 |----|-----------------|-------------------------------------------------|--------------------|-------------|
 | 1  | 4 September 2025 | Pengenalan Mobile Programming dan Setup         | [Laporan 1](https://drive.google.com/file/d/1mIhhTtEIW1afFIqsbDJl9RVCwyALnW7L/view?usp=sharing)     | [Modul 1](https://github.com/ndilashfr/modul1) |
-| 2  | 11 September 2025 | Widget Row dan Column                          | [Laporan 2](#)     | [Modul 2](https://github.com/ndilashfr/modul2) |
-| 3  | 18 September 2025 | Pengaturan Layout Row dan Column di Flutter    | [Laporan 3](#)     | [Modul 3](#) |
-| 4  | 25 September 2025 | Widget Flexible dan Expanded                   | [Laporan 4](#)     | [Modul 4](#) |
+| 2  | 11 September 2025 | Widget Row dan Column                          | [Laporan 2](https://drive.google.com/file/d/11EIS5QAue9F39BmTvMfUm39EI8L4YPuj/view?usp=sharing)     | [Modul 2](https://github.com/ndilashfr/modul2) |
+| 3  | 18 September 2025 | Pengaturan Layout Row dan Column di Flutter    | 
+| 4  | 25 September 2025 | Widget Flexible dan Expanded                   |   
 
 ---
