@@ -24,5 +24,6 @@ Saat ini saya sedang belajar **Mobile Programming**.
 | 5  | 18 September 2025 | Widget SizedBox, Spacer, dan Card                   | [Laporan 5](https://drive.google.com/file/d/10-1s0I-Cfwaz_f6HSqeiAMeUznTtBj-8/view?usp=sharing)           | [Modul 5](https://github.com/ndilashfr/modul5) |
 | 6  | 18 September 2025 | Widget GridView, ListView, GridView.builder, dan ListView.builder                   | [Laporan 6](https://drive.google.com/file/d/1BPW__o7m4R4tDgf45cezpmyM0X0zsg_a/view?usp=sharing)           | [Modul 6](https://github.com/ndilashfr/modul6) |
 | 7  | 25 September 2025 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route                   | [Laporan 7](https://drive.google.com/file/d/1MDv6tgNHM_kCkLhePvzb7WuRvJTZ_TXA/view?usp=sharing)           | [Modul 7](https://github.com/ndilashfr/modul7) |
-| 8  | 25 September 2025 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route                   | [Laporan 8]           | [Modul 8] |
+| 8  | 25 September 2025 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route                   | [Laporan 8](https://drive.google.com/file/d/1c7M-BU3H1Ico95B9ALM6OTOjm4kactHY/view?usp=sharing)           | [Modul 8](https://github.com/ndilashfr/modul8) |
+| 9  | 2 Oktober 2025 | StatefulWidget                   | [Laporan 9](https://drive.google.com/file/d/1Bfq0-N3m-IstZv74Z1MJP-h-J1XzQYYd/view?usp=sharing)           | [Modul 9](https://github.com/ndilashfr/modul9) |
 ---
