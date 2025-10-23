@@ -27,6 +27,7 @@ Saat ini saya sedang belajar **Mobile Programming**.
 | 8  | 25 September 2025 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route                   | [Laporan 8](https://drive.google.com/file/d/1c7M-BU3H1Ico95B9ALM6OTOjm4kactHY/view?usp=sharing)           | [Modul 8](https://github.com/ndilashfr/modul8) |
 | 9  | 2 Oktober 2025 | StatefulWidget                   | [Laporan 9](https://drive.google.com/file/d/1E2snnbRLwa8Awzp7jam5pLF2BvIVTrSc/view?usp=sharing)           | [Modul 9](https://github.com/ndilashfr/modul9) |
 | 10  | 9 Oktober 2025 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter                   | [Laporan 10](https://drive.google.com/file/d/1qy_wBVEdOWUrxQM90DOsEUeCOr_fyD-M/view?usp=drive_link)           | [Modul 10](https://github.com/ndilashfr/modul10) |
+| 11  | 16 Oktober 2025 | 	Manajemen State dengan GetX                   | [Laporan 11](https://drive.google.com/file/d/1JzzAODYllXF_zRm3lqN93dJLw7AoVNTj/view?usp=sharing)           | [Modul 11](https://github.com/ndilashfr/modul11) |
 ---
 
 
