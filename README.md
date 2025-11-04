@@ -28,6 +28,8 @@ Saat ini saya sedang belajar **Mobile Programming**.
 | 9  | 2 Oktober 2025 | StatefulWidget                   | [Laporan 9](https://drive.google.com/file/d/1E2snnbRLwa8Awzp7jam5pLF2BvIVTrSc/view?usp=sharing)           | [Modul 9](https://github.com/ndilashfr/modul9) |
 | 10  | 9 Oktober 2025 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter                   | [Laporan 10](https://drive.google.com/file/d/1qy_wBVEdOWUrxQM90DOsEUeCOr_fyD-M/view?usp=drive_link)           | [Modul 10](https://github.com/ndilashfr/modul10) |
 | 11  | 16 Oktober 2025 | 	Manajemen State dengan GetX                   | [Laporan 11](https://drive.google.com/file/d/1JzzAODYllXF_zRm3lqN93dJLw7AoVNTj/view?usp=sharing)           | [Modul 11](https://github.com/ndilashfr/modul11) |
+| 12  | 23 Oktober 2025 | 	UTS                   | [Laporan UTS](https://drive.google.com/file/d/1fSrv0ur2etSdsvFXI1fEIvjYkSVpDSOH/view?usp=drive_link)           | [UTS](https://github.com/ndilashfr/UTS-mobile-programming) |
+| 13 | 6 November 2025 | 	Akses Lokasi dengan GPS di Flutter                   | [Laporan 12](https://drive.google.com/file/d/1TJbZW9rR5eP2i5j8aPKo909wq8brD-nj/view?usp=sharing)           | [Modul 12](https://github.com/ndilashfr/modul12) |
 ---
 
 
