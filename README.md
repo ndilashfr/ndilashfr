@@ -30,6 +30,8 @@ Saat ini saya sedang belajar **Mobile Programming**.
 | 11  | 16 Oktober 2025 | 	Manajemen State dengan GetX                   | [Laporan 11](https://drive.google.com/file/d/1JzzAODYllXF_zRm3lqN93dJLw7AoVNTj/view?usp=sharing)           | [Modul 11](https://github.com/ndilashfr/modul11) |
 | 12  | 23 Oktober 2025 | 	UTS                   | [Laporan UTS](https://drive.google.com/file/d/1fSrv0ur2etSdsvFXI1fEIvjYkSVpDSOH/view?usp=drive_link)           | [UTS](https://github.com/ndilashfr/UTS-mobile-programming) |
 | 13 | 6 November 2025 | 	Akses Lokasi dengan GPS di Flutter                   | [Laporan 12](https://drive.google.com/file/d/1TJbZW9rR5eP2i5j8aPKo909wq8brD-nj/view?usp=sharing)           | [Modul 12](https://github.com/ndilashfr/modul12) |
+| 14 | 13 November 2025 | 	API GMaps Google Studio                   | [Laporan 13]()           | [Modul 13](https://github.com/ndilashfr/modul13) |
+| 15 | 20 November 2025 | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API                  | [Laporan 14]()           | [Modul 12](https://github.com/ndilashfr/modul14) |
 ---
 
 
